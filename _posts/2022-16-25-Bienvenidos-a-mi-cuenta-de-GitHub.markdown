@@ -3,9 +3,9 @@ layout: post
 title:  Bienvenido a mi cuenta de GitHub
 date:   2022-06-25 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
-tags: [Course, GitHub]
-author: Jesús Galeano # Add name author (optional)
+img: post-5.jpg # Add image post (optional)
+tags: [Blog, GitHub]
+author: Adam Neilson # Add name author (optional)
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas velit. Integer mi tellus, viverra nec mattis ac, imperdiet ut nibh. Maecenas pellentesque rutrum nibh eu lacinia. Quisque laoreet turpis purus, id facilisis lorem lobortis a. Nullam vitae tempor lacus. Praesent nisl lectus, cursus ac elementum sit amet, finibus vitae sem. Praesent auctor ex et aliquet hendrerit. Vestibulum quis lacinia turpis. Integer lobortis sapien id lorem mollis, suscipit luctus ligula condimentum. Donec facilisis sed lectus sed interdum. Vestibulum ac ornare odio, in mollis tellus. Proin lacus nisl, faucibus nec ullamcorper eu, tempus non massa. Aliquam at nisl eleifend, fermentum arcu ut, fermentum velit. Vivamus magna lacus, luctus eu faucibus sed, accumsan ullamcorper magna.
 
